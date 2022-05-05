@@ -1,5 +1,10 @@
 # Relationship Between Temperature, Homeless Encampments, and Criminal Activities in New York City (2018 - 2019)
 
+### Author
+Bernice (Zonglin) Wu, Jerry (Zijie) Liu, Katelyn (Feifei) Wang
+
+**Note**: This project was done on NYU High Performace Computer (HPC), so the following steps are just for reference. The access to the files are only granted to staffs and author. 
+
 ## Data Source 1: [U.S. Local Climatological Data: NY CITY CENTRAL PARK](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data?bbox=40.965,-74.257,40.465,-73.757&startDate=2018-01-01T00:00:00&endDate=2019-12-31T23:59:59&dataTypes=DailyAverageDewPointTemperature&dataTypes=DailyAverageDryBulbTemperature&dataTypes=DailyAverageWetBulbTemperature)
 
 **Input Location: `/user/temperature/hw7/input/temp2018.csv` AND `/user/temperature/hw7/input/temp2019.csv` in HDFS**
