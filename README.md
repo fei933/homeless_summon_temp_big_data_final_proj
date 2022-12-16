@@ -1,7 +1,7 @@
 # Relationship Between Temperature, Homeless Encampments, and Criminal Activities in New York City (2018 - 2019)
 
 ### Author
-Bernice (Zonglin) Wu, Jerry (Zijie) Liu, Katelyn (Feifei) Wang
+Zonglin Wu, Zijie Liu, Feifei Wang
 
 **Note**: This project was done on NYU High Performace Computer (HPC), so the following steps are just for reference. The access to the files are only granted to staffs and author. 
 
